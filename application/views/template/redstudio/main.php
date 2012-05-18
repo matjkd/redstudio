@@ -16,52 +16,59 @@
 
 <body>
 	<input type="hidden" id="baseurl" value="<?= base_url() ?>" />
-	<div id="mainContainer" class="container">
-		<div id="breadcrumb" class="sixteen columns">
-			<!--   breadcrumb nav and search-->
+	<div id="header">
+		<div class="container">
+			<div class="four columns" id="logo">
+			<img src="<?=base_url()?>css/redstudio/images/logo.png"/>
+			</div>
+			<div class="four columns">
+			
+				&nbsp;
+			</div>
+
+			<div class="eight columns">
+				<h2>We make pretentious and
+meaningless statements
+on our website in a
+nice big font</h2>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+
+
+
+		<div id="container">
+
+			<?php if (isset($slideshow_active) && $slideshow_active != NULL) { ?>
+			<?= $this->load->view('slideshow/slideshow') ?>
+			<?php } ?>
+
+			<div class="sixteen columns">
+
+				<?= $this->load->view('global/alert') ?>
+				<?= $this->load->view($main_content) ?>
+			</div>
+
+
+
 
 		</div>
-		<div id="header" class="sixteen columns">&nbsp;</div>
-		<div id="menucontainer" class="sixteen columns">
-			<div id="menutop">menu</div>
+
+
+
+		<?= $this->load->view('global/' . $this->config_theme . '/footer_menu') ?>
+
+
+	</div>
+
+	<div class="bottom_menu">
+		<div class="footermenu">
+			<?= $this->load->view('global/' . $this->config_theme . '/bottomnav') ?>
 		</div>
-	 <div id="container" >
 
-                <?php if (isset($slideshow_active) && $slideshow_active != NULL) { ?>    
-                    <?= $this->load->view('slideshow/slideshow') ?>
-                <?php } ?>
-              
-                    <div class="ten columns">
-
-  <?= $this->load->view('global/alert') ?>   
-                        <?= $this->load->view($main_content) ?>   
-                    </div>
-
-                    <div class="six columns">
-
-                        <?php if(isset($sidebox) && $sidebox != NULL) { ?>
-                        <?=$this->load->view('sidebox/'.$sidebox)?>
-                        <?php } ?>
-                    </div>
-               
-
-            </div> 
-
-            <div  id="bottomfooter">
-
-                <?= $this->load->view('global/' . $this->config_theme . '/footer_menu') ?>
-
-            </div>
-          
-        </div>
-          
-            <div class="bottom_menu">
-                <div class="footermenu" >
-                    <?= $this->load->view('global/' . $this->config_theme . '/bottomnav') ?> 
-                </div>
-
-            </div>
-        <!--! end of #container -->
-        <?= $this->load->view('global/footer') ?>
+	</div>
+	<!--! end of #container -->
+	<?= $this->load->view('global/footer') ?>
 </body>
 </html>

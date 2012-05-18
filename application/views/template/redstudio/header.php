@@ -11,7 +11,7 @@ if (isset($metatitle) && $metatitle != NULL) {
     if (isset($title) && $title != NULL) {
         echo $title;
     } else {
-        echo "Club Woodham - More than just your average health club";
+        echo "Redstudio Design Limted. Really rather awesome.";
     }
 }
 ?></title>
@@ -19,7 +19,7 @@ if (isset($metatitle) && $metatitle != NULL) {
 if (isset($meta_description) && $meta_description != NULL) {
     echo $meta_description;
 } else {
-    echo "We are a highly experienced leading landscaping and garden designer based in Essex";
+    echo "We are a highly experienced web develement company";
 }
 ?>">
 
@@ -27,7 +27,7 @@ if (isset($meta_description) && $meta_description != NULL) {
 if (isset($meta_keywords) && $meta_keywords != NULL) {
     echo $meta_keywords;
 } else {
-    echo "landscaping,landscaping gardens, home garden landscaping, paving and landscaping, patio landscaping, landscaping services, garden landscaping services, landscaping essex, landscape gardeners, landscape gardening.";
+    echo "keywords serve no purpose. Move along.";
 }
 ?>">
 <meta name="author" content="DesignCo">
@@ -40,7 +40,9 @@ if (isset($meta_keywords) && $meta_keywords != NULL) {
 <link rel="apple-touch-icon" href="<?= base_url() ?>apple-touch-icon.png">
 
 <!-- Load google fonts-->
-<link href='http://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
+
 
 <!-- CSS : implied media="all" -->
 <link rel="stylesheet" href="<?= base_url() ?>css/custom-theme/jquery-ui-1.8.9.custom.css">
