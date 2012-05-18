@@ -18,8 +18,9 @@
 	<input type="hidden" id="baseurl" value="<?= base_url() ?>" />
 	<div id="header">
 		<div class="container">
-			<div class="four columns" id="logo">
-			<img src="<?=base_url()?>css/redstudio/images/logo.png"/>
+			<div class="four columns" >
+			<div id="logo"></div>
+			
 			</div>
 			<div class="four columns">
 			

@@ -48,9 +48,10 @@ h2 {
     color:#444;
 }
 #logo {
+	
 	background: url('images/logo.png') no-repeat;
-	width:224px;
-	height:222px;
+	width:241px;
+	height:224px;
 }
 p {
 
@@ -60,19 +61,8 @@ p {
 
 }
 #header {
-   background: rgb(105,147,137); /* Old browsers */
-/* IE9 SVG, needs conditional override of 'filter' to 'none' */
-background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzY5OTM4OSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM3NDkxOGEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-background: -moz-linear-gradient(top, rgba(105,147,137,1) 0%, rgba(116,145,138,1) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(105,147,137,1)), color-stop(100%,rgba(116,145,138,1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top, rgba(105,147,137,1) 0%,rgba(116,145,138,1) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top, rgba(105,147,137,1) 0%,rgba(116,145,138,1) 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top, rgba(105,147,137,1) 0%,rgba(116,145,138,1) 100%); /* IE10+ */
-background: linear-gradient(top, rgba(105,147,137,1) 0%,rgba(116,145,138,1) 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#699389', endColorstr='#74918a',GradientType=0 ); /* IE6-8 */
--moz-box-shadow: 0px 4px 11px #000000;
--webkit-box-shadow: 0px 4px 11px #000000;
-box-shadow: 0px 4px 11px #000000;
+   background: url('images/header.jpg') repeat-x ;
+   height:245px;
 }
 #header h1{
 	color:#fff;
@@ -139,17 +129,7 @@ box-shadow: 0px 4px 11px #000000;
 .footertext a {
     color:#fff;
 }
-#logo {
-    float:left;
-    display:block;
-    margin-top:35px;
-    margin-left:30px;
-    margin-bottom:10px;
-    height:85px;
-    width:352px;
-    position:relative;
 
-}
 #menutop {
 
     width:100%;
