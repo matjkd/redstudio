@@ -30,32 +30,40 @@
 			</div>
 		</div>
 	</div>
-	<div class="container">
+	<div id="mainBlock">
+		<div class="container">
 
 
 
-		<div id="container">
+			<div id="container">
 
-			<?php if (isset($slideshow_active) && $slideshow_active != NULL) { ?>
-			<?= $this->load->view('slideshow/slideshow') ?>
-			<?php } ?>
+				<?php if (isset($slideshow_active) && $slideshow_active != NULL) { ?>
+				<?= $this->load->view('slideshow/slideshow') ?>
+				<?php } ?>
 
-			<div class="sixteen columns">
+				<div class="four columns">
 
-				<?= $this->load->view('global/alert') ?>
-				<?= $this->load->view($main_content) ?>
+					<?= $this->load->view('global/alert') ?>
+					<?= $this->load->view($main_content) ?>
+				</div>
+
+<div class="twelve columns">
+
+				<div id="aboutButton"></div>
+				<div id="workButton"></div>
+				<div id="contactButton"></div>
+				</div>
+				
+
+
 			</div>
 
 
 
+			<?= $this->load->view('global/' . $this->config_theme . '/footer_menu') ?>
+
 
 		</div>
-
-
-
-		<?= $this->load->view('global/' . $this->config_theme . '/footer_menu') ?>
-
-
 	</div>
 	<div class="redblock">
 		<div class="container">hello</div>
