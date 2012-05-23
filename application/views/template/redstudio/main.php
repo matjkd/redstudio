@@ -18,20 +18,15 @@
 	<input type="hidden" id="baseurl" value="<?= base_url() ?>" />
 	<div id="header">
 		<div class="container">
-			<div class="four columns" >
-			<div id="logo"></div>
-			
-			</div>
 			<div class="four columns">
-			
-				&nbsp;
-			</div>
+				<div id="logo"></div>
 
-			<div class="eight columns">
-				<h2>We make pretentious and
-meaningless statements
-on our website in a
-nice big font</h2>
+			</div>
+			<div class="four columns">&nbsp;</div>
+
+			<div class="eight columns" id="statement">
+				<h2>We make pretentious and meaningless statements on our website in
+					a nice big font</h2>
 			</div>
 		</div>
 	</div>
@@ -62,7 +57,9 @@ nice big font</h2>
 
 
 	</div>
-
+	<div class="redblock">
+		<div class="container">hello</div>
+	</div>
 	<div class="bottom_menu">
 		<div class="footermenu">
 			<?= $this->load->view('global/' . $this->config_theme . '/bottomnav') ?>
