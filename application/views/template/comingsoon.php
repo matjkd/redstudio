@@ -8,7 +8,7 @@
 
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
-    <title>RICHY | Creative Responsive Theme</title>
+    <title>redstudio design limited</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="css/fontawesome/font-awesome-ie7.css" />
     <![endif]-->
 	<!-- Color Skins -->
-    <link rel="stylesheet" href="css/skins/blue.css" name="skins"> 
+    <link rel="stylesheet" href="css/skins/red.css" name="skins"> 
     <!-- Layout Style -->
     <link rel="stylesheet" href="css/layout/wide.css" name="layout"> 
     <!-- Style Switcher Box -->
@@ -48,8 +48,8 @@
         <!-- Logo -->
         <div class="logoWrapper custom">
         	<div class="centered logo">
-            	<span class="logoFirst">R</span><a href="index.html">ICHY</a><br/>
-                <div class="small">build under bootstrap system</div>
+            	<span class="logoFirst">red</span><a href="index.html">studio</a><br/>
+                <div class="small">design limited</div>
             </div>
         </div><!--/logoWrapper-->
         
@@ -65,8 +65,8 @@
             <div class="span6 offset3 underConst">
                 <p class="centered">
                 <h1>UNDER CONSTAUCTION</h1>
-                Welcome to RICHY Clean & Responsive HTML5 Template. <br/>
-                This intro text can be modified and is a good way to say hello to the visitor.
+               Welcome to redstudio design limited <br/>
+                We are a web development company. We build awesome websites. This one is coming soon.
                 </p>
             </div>
             
