@@ -36,7 +36,19 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-920708-18']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </head>
 
 <body>
@@ -64,9 +76,9 @@
 			
             <div class="span6 offset3 underConst">
                 <p class="centered">
-                <h1>UNDER CONSTAUCTION</h1>
+                <h1>COMING SOON</h1>
                Welcome to redstudio design limited <br/>
-                We are a web development company. We build awesome websites. This one is coming soon.
+                We are a web development company. We build awesome websites. <br/>This one is coming soon.
                 </p>
             </div>
             
@@ -124,11 +136,7 @@
                             	<!-- About Us -->
                                 <h4>About Us</h4>
                                 <p>
-                                    Consectetur adipiscing elit aeneane lorem lipsum, condimentum ultrices consequat eu,
-                                     vehicula mauris lipsum adipiscing lipsum aenean orci lorem Asequat. Consectetur adipiscing elit aeneane lorem lipsum, condimentum ultrices consequat eu,
-                                     vehicula mauris lipsum adipiscing lipsum aenean orci lorem Asequat. Consectetur adipiscing elit aeneane lorem lipsum, condimentum ultrices consequat eu,
-                                     vehicula mauris lipsum adipiscing lipsum aenean orci lorem Asequat. Consectetur adipiscing elit aeneane lorem lipsum, condimentum ultrices consequat eu,
-                                     vehicula mauris lipsum adipiscing lipsum aenean orci lorem Asequat. 
+                                    We've been in business over 10 years, designing, developing and hosting websites. We're pretty good at it now. 
                                 </p>
                             </div>
                             
@@ -137,18 +145,19 @@
                             <div class="span4">
                                 <div class="subscribee">
                                     Subscribe to our e-mail newsletter to receive updates.<br/><br/>
-                                    <form class="subscribe">
-                                        <input class="inputSubscribe" type="text" placeholder="Enter Your Email" />
-                                        <button class="btn btn-warning btnSubscribe">Send</button>
+                                   <form action="http://redstudio.us1.list-manage.com/subscribe/post?u=07f8348178863dab1d4d377a3&amp;id=ccd4d4f407" 
+                                   method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                                       <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
                                     </form>
                                 </div>
                                 <div class="clearfix"></div>
                                 <!-- Contacts -->
                                 <h4>Contact Us</h4>
                                 <address>
-                                  <i class="icon-tint"></i> 795 Folsom Ave, Suite 600 San Francisco, CA 94107<br>
-                                  <i class="icon-phone"></i> (123) 456-7890<br>
-                                  <i class="icon-envelope-alt"></i> <a href="mailto:#">first.last@gmail.com</a>
+                                  <i class="icon-tint"></i> 65 Cricketers Lane, Herongate, Brentwood, Essex, CM133QB<br>
+                                  <i class="icon-phone"></i>07734 944112<br>
+                                  <i class="icon-envelope-alt"></i> <a href="mailto:web@redstudio.co.uk">web@redstudio.co.uk</a>
                                 </address>
                             </div>
                         </div>
@@ -157,16 +166,14 @@
                         <!-- Copy rights + subscribtion area -->
                         <div class="row bord-top">
                             <div class="span6 copyrights">
-                          Copyright 2012  RICHY. All Rights Reserved. Theme by <a href="https://wrapbootstrap.com/user/ASteam">ASteam</a>
+                          Copyright 2013  Redstudio Design Limited. All Rights Reserved. 
                             </div>
                             
                             <div class="span6">
                                 <ul class="footer-social tooltip-title">
-                                <li><a href="#" rel="tooltip" title="facebook"><i class="icon-facebook-sign"></i></a></li>
-                                <li><a href="#" rel="tooltip" title="twitter"><i class="icon-twitter-sign"></i></a></li>
-                                <li><a href="#" rel="tooltip" title="google plus"><i class="icon-google-plus-sign"></i></a></li>
-                                <li><a href="#" rel="tooltip" title="piterest"><i class="icon-pinterest-sign"></i></a></li>
-                                <li><a href="#" rel="tooltip" title="linked in"><i class="icon-linkedin-sign"></i></a></li>
+                               
+                                <li><a href="https://plus.google.com/u/0/b/100045574150127148775/100045574150127148775/posts" rel="tooltip" title="google plus"><i class="icon-google-plus-sign"></i></a></li>
+                              
                                 </ul>
                             </div>
                         </div>
@@ -175,9 +182,7 @@
             </footer>
         </div>
         
-        <!-- Start Style Switcher -->
-        <div class="switcher"></div>
-        <!-- End Style Switcher -->
+          
     
 	<!-- javascript
     ============================================================================================================= -->
