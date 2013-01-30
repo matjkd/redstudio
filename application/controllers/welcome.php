@@ -40,7 +40,7 @@
       
       $data['slideshow'] = 'header/slideshow';
       $this->load->vars($data);
-      $this->load->view('template/main');
+      $this->load->view('template/comingsoon');
     }
     
     function get_content_data($menu) {
