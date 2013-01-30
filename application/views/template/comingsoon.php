@@ -138,6 +138,9 @@
                                 <p>
                                     We've been in business over 10 years, designing, developing and hosting websites. We're pretty good at it now. 
                                 </p>
+                                <p>
+                                    Get in touch if you'd like a quote. We can do everything, from designing, through to ongoing maintenance and SEO. 
+                                </p>
                             </div>
                             
                             
