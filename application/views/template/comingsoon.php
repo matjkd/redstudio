@@ -86,36 +86,7 @@
             
             
             
-                <div id="count2" class="count-end-message" ></div><!-- Message After Time End -->
-                <div id="spacer1">
-                    <div id="clock-ticker" class="clearfix">
-                    	
-                        <div class="block">
-                            <span class="flip-top" id="dday"></span>
-                            <div class="clearfix"></div>
-                            <span class="label" id="days">Days</span>
-                        </div>
-                        
-                        <div class="block">
-                            <span class="flip-top" id="dhour"></span>
-                            <div class="clearfix"></div>
-                            <span class="label" id="hours">Hours</span>
-                        </div>
-                        
-                        <div class="block">
-                            <span class="flip-top" id="dmin"></span>
-                            <div class="clearfix"></div>
-                            <span class="label" id="minutes">Mins</span>
-                        </div>
-                        
-                        <div class="block">
-                            <span class="flip-top" id="dsec"></span>
-                            <div class="clearfix"></div>
-                            <span class="label" id="seconds">Secs</span>
-                        </div>   
-                                         
-                    </div><!-- End clock-ticker -->
-                </div><!-- End spacer1 -->
+               
         
             
             
