@@ -369,6 +369,8 @@ header {
 /* Logo */
 .logoWrapper {
 	min-height: 135px;
+	background: #2d3731;
+border-bottom: 10px solid #7fa792;
 }   
                    
 .logo {
