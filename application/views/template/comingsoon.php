@@ -121,7 +121,7 @@
                                    <form action="http://redstudio.us1.list-manage.com/subscribe/post?u=07f8348178863dab1d4d377a3&amp;id=ccd4d4f407" 
                                    method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                         <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                                       <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">Subscribe</button>
+                                       <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-warning btnSubscribe">Subscribe</button>
                                     </form>
                                 </div>
                                 <div class="clearfix"></div>
