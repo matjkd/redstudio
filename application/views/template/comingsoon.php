@@ -60,8 +60,7 @@
         <!-- Logo -->
         <div class="logoWrapper custom">
         	<div class="centered logo">
-            	<span class="logoFirst">red</span><a href="index.html">studio</a><br/>
-                <div class="small">design limited</div>
+            	<img src="<?=base_url()?>images/logo2.png"/>
             </div>
         </div><!--/logoWrapper-->
         
