@@ -60,7 +60,7 @@
         <!-- Logo -->
         <div class="logoWrapper custom">
         	<div class="centered logo">
-            	<img src="<?=base_url()?>images/logo2.png"/>
+            	<img width="250" src="<?=base_url()?>images/logo3.png"/>
             </div>
         </div><!--/logoWrapper-->
         
