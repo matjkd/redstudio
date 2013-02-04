@@ -1,122 +1,103 @@
+
 <!DOCTYPE html>
-<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
-<head>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Redstudio Design Limited</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="author" content="">
 
-    <!-- Basic Page Needs -->
-    <meta charset="utf-8">
-    <title>redstudio design limited</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- fav and touch icons 
-    ======================================================================================-->
-    <link rel="shortcut icon" href="images/favicon/favicon.ico">
-    <link rel="apple-touch-icon" href="images/favicon/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/favicon/apple-touch-icon-114x114.png">
-  
-	<!-- Start CSS Style 
-    =======================================================================================-->
-    <link rel="stylesheet" href="css/style.css" /><!-- Main Style -->
-    <!--[if IE 7]>
-    <link rel="stylesheet" href="css/fontawesome/font-awesome-ie7.css" />
-    <![endif]-->
-	<!-- Color Skins -->
-    <link rel="stylesheet" href="css/skins/red.css" name="skins"> 
-    <!-- Layout Style -->
-    <link rel="stylesheet" href="css/layout/wide.css" name="layout"> 
-    <!-- Style Switcher Box -->
-    <link rel="stylesheet" href="css/layout/switcher.css">
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <script type="text/javascript">
+		<!-- Le styles -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/theme.css">
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,800,600,300' rel='stylesheet' type='text/css'>
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-920708-18']);
-  _gaq.push(['_trackPageview']);
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link rel="shortcut icon" href="favicon.png">
+	</head>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	<body>
+		<div class="navbar-wrapper">
+			<div class="container">
+				<div class="navbar navbar-inverse">
+					<div class="navbar-inner">
+						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">Menu</a>
+						<a class="brand" href="index.html">redstudio design limited</a>
+						
+					</div><!-- /.navbar-inner -->
+				</div><!-- /.navbar -->
+			</div><!-- /.container -->
+		</div><!-- /.navbar-wrapper -->
 
-</script>
-</head>
+		<div class="teaser">
+			<div class="container">
+				<div class="row">
+					<div class="span12">
+						<h1>Coming Soon...</h1>
+					</div>
+				</div>
+			</div>
+		</div>
 
-<body>
-    
-    <!-- Header
-    =========================================================================================================== -->
-    <header>
-  
-        <!-- Logo -->
-        <div class="logoWrapper custom">
-        	<div class="centered logo">
-            	<img width="250" src="<?=base_url()?>images/logo3.png"/>
-            </div>
-        </div><!--/logoWrapper-->
-        
-    </header>
+		<div class="middle-bar">
+			<div class="container">
+				<div class="row">
+					<div class="span12">
+						<h2>We build websites etc. etc.</h2>
+					</div>
+				</div>
+			</div>
+		</div>
 
-    
-    <!-- Content
-    ============================================================================================================== -->
+		<div class="container">
+			<div class="row">
+				
+				<div class="span8">
+					<h2>Our website is undergoing a slight update.</h2>
+					<p>We are currently updating our website, the new one should be finished soon. In the meantime, if you want some sort of web based thing done, get in contact. </p>
+					
+					
 
-	<div class="container marB50">
-		<div class="row">
-			
-            <div class="span6 offset3 underConst">
-                <p class="centered">
-                <h1>COMING SOON</h1>
-               Welcome to redstudio design limited <br/>
-                We are a web development company. We build awesome websites. <br/>This one is coming soon.
-                </p>
-            </div>
-            
-            <div class="clearfix"></div>
-            
-            
-            
-               
-        
-            
-            
-        </div><!--/row-->  
-	</div><!--/container-->
+					</div>
+				<div class="span4">
+					<h3>Things we do</h3>
+					<ul>
+						<li><i class="icon-ok"></i> Web Design</li>
+						<li><i class="icon-ok"></i> Web Development</li>
+						<li><i class="icon-ok"></i> Web Hosting</li>
+						<li><i class="icon-ok"></i> Application Development</li>
+						<li><i class="icon-ok"></i> SEO</li>
+						<li><i class="icon-ok"></i> Email</li>
+						<li><i class="icon-ok"></i> e-marketing</li>
+						<li><i class="icon-ok"></i> Social Networking</li>
+						<li><i class="icon-ok"></i> Thinking</li>
+						
+					</ul>
+					
+					
+				</div>
+			</div>
 
+		
+		</div><!-- /.container -->
 
-    
- 
-    <!-- Footer
-    ============================================================================================================= -->
-  <div class="container darkBg">
-        <footer>
-                <div id="mainFooter">
-                        <div class="row">
-                            
-                            <div class="span8">
-                            	<!-- About Us -->
-                                <h4>About Us</h4>
-                                <p>
-                                    We've been in business over 10 years, designing, developing and hosting websites. We're pretty good at it now. 
-                                </p>
-                                <p>
-                                    Get in touch if you'd like a quote. We can do everything, from designing, through to ongoing maintenance and SEO. 
-                                </p>
-                            </div>
-                            
-                            
-                            <!-- subscribe -->
-                            <div class="span4">
-                                <div class="subscribee">
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="span3">
+						
+					</div>
+					<hr class="visible-phone">
+					<div class="span3">
+						
+					</div>
+					<hr class="visible-phone">
+					<div class="span3">
+						 <div class="subscribee">
                                     Subscribe to our e-mail newsletter to receive updates.<br/><br/>
                                    <form action="http://redstudio.us1.list-manage.com/subscribe/post?u=07f8348178863dab1d4d377a3&amp;id=ccd4d4f407" 
                                    method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -124,63 +105,40 @@
                                        <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-warning btnSubscribe">Subscribe</button>
                                     </form>
                                 </div>
-                                <div class="clearfix"></div>
-                                <!-- Contacts -->
-                                <h4>Contact Us</h4>
+					</div>
+					<hr class="visible-phone">
+					<div class="span3">
+						<h4>Contact Us</h4>
                                 <address>
                                   <i class="icon-tint"></i> 65 Cricketers Lane, Herongate, Brentwood, Essex, CM133QB<br>
                                   <i class="icon-phone"></i>07734 944112<br>
                                   <i class="icon-envelope-alt"></i> <a href="mailto:web@redstudio.co.uk">web@redstudio.co.uk</a>
                                 </address>
-                            </div>
-                        </div>
-                        
-                        
-                        <!-- Copy rights + subscribtion area -->
-                        <div class="row bord-top">
-                            <div class="span6 copyrights">
-                          Copyright 2013  Redstudio Design Limited. All Rights Reserved. 
-                            </div>
-                            
-                            <div class="span6">
-                                <ul class="footer-social tooltip-title">
-                               
-                                <li><a href="https://plus.google.com/u/0/b/100045574150127148775/100045574150127148775/posts" rel="tooltip" title="google plus"><i class="icon-google-plus-sign"></i></a></li>
-                              
-                                </ul>
-                            </div>
-                        </div>
-                        
-                </div><!--/mainFooter-->
-            </footer>
-        </div>
-        
-          
-    
-	<!-- javascript
-    ============================================================================================================= -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.js"></script><!-- Main JQuery -->
-    <script src="js/bootstrap.js"></script><!-- Bootstrap Js main file -->
-    <script src="js/jquery.easing.1.3.js"></script><!-- easing.1.3 -->
-    <script src="js/jquery.cookie.js"></script><!-- cookie -->
-    <script src="js/jquery-ui-1.8.20.custom.min.js"></script><!-- jquery-ui -->
-    <script defer src="js/jquery.flexslider.js"></script><!-- Flex Basic carousel -->
-    <script src="js/jquery.prettyPhoto.js"></script><!-- PrettyPhoto -->    
-    <script src="js/jquery.liquid-slider-0.1.js"></script><!-- Testimonials - text slider -->
-    <script src="js/jquery.tweet.js"></script><!-- Twitter plugin -->
-    <script src="js/jflickrfeed.min.js"></script><!-- jQuery Flickr -->
-    <script src="js/jquery.ui.totop.js" ></script><!-- Go to top -->
-    <script src="js/filterable.pack.js"></script><!-- Filter portfolio -->
-    <script src="js/audio.min.js"></script><!-- audio player -->
-    <script src="js/prettify.js"></script><!-- YOU CAN REMOVE IT // it's associated with shortcodes preview boxes -->
-    <script src="js/styleswitch.js"></script> <!-- Style Colors Switcher -->
-    <script src="js/custom.js"></script><!-- All scripts that shuold be on html file collected here -->
-    <script src="js/under_construction.js"></script><!-- Under construction js -->
-    
-    
+					</div>
+				</div>
+			</div>
 
-    
- 
-</body>
+			<div class="footer-bottom">
+				<div class="container">
+					<div class="row">
+						<div class="span12">
+							<p class="pull-right"><a href="#">Back to top</a></p>
+							<p>&copy; Developed by &middot; <a href="http://www.redstudio.co.uk">redstudio design limited</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<!-- last but not least the javascript -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="js/jquery-1.8.3.min.js"><\/script>')</script>
+		<script src="js/bootstrap.js"></script>
+		<script>
+			$(document).ready(function(){
+				//bootstrap tooltip trigger
+				$('[rel="tooltip"]').tooltip();
+			});
+		</script>
+	</body>
 </html>
