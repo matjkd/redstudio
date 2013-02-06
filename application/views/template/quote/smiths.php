@@ -1,7 +1,8 @@
 
 <!DOCTYPE html>
 <html>
-	<?=$this->load->view('template/parts/header')?>
+		<?=$this->load->view('template/parts/header')?>
+
 	<body>
 		<div class="navbar-wrapper">
 			<div class="container">
@@ -9,7 +10,14 @@
 					<div class="navbar-inner">
 						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">Menu</a>
 						<a class="brand" href="<?=base_url()?>">redstudio design limited</a>
-						
+						<div class="nav-collapse collapse">
+							<ul class="nav">
+								<li><a href="<?=base_url()?>quote/smiths/design">Overview</a></li>
+								<li><a href="<?=base_url()?>quote/smiths/maintenance">Maintenance</a></li>
+								<li><a href="<?=base_url()?>quote/smiths/costs">Cost</a></li>
+							
+							</ul>
+						</div><!--/.nav-collapse -->
 					</div><!-- /.navbar-inner -->
 				</div><!-- /.navbar -->
 			</div><!-- /.container -->
@@ -19,7 +27,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="span12">
-						<h1>Coming Soon...</h1>
+						<h1>Quotation</h1>
 					</div>
 				</div>
 			</div>
@@ -29,41 +37,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="span12">
-						<h2>We build websites etc.</h2>
+						<h2>Smiths Brasserie web development.</h2>
 					</div>
 				</div>
 			</div>
 		</div>
 
 		<div class="container">
-			<div class="row">
-				
-				<div class="span8">
-					<h2>Our website is undergoing a slight update.</h2>
-					<p>We are currently updating our website, the new one should be finished soon. In the meantime, if you want some sort of web based thing done, get in contact. </p>
-					
-					
-
-					</div>
-				<div class="span4">
-					<h3>Things we do</h3>
-					<ul>
-						<li><i class="icon-ok"></i> Web Design</li>
-						<li><i class="icon-ok"></i> Web Development</li>
-						<li><i class="icon-ok"></i> Web Hosting</li>
-						<li><i class="icon-ok"></i> Application Development</li>
-						<li><i class="icon-ok"></i> SEO</li>
-						<li><i class="icon-ok"></i> Email</li>
-						<li><i class="icon-ok"></i> e-marketing</li>
-						<li><i class="icon-ok"></i> Social Networking</li>
-						<li><i class="icon-ok"></i> Thinking</li>
-						
-					</ul>
-					
-					
-				</div>
-			</div>
-
+			
+			<?=$this->load->view($main)?>
 		
 		</div><!-- /.container -->
 
