@@ -9,10 +9,11 @@
 				<div class="navbar navbar-inverse">
 					<div class="navbar-inner">
 						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">Menu</a>
-						<a class="brand" href="<?=base_url()?>">redstudio design limited</a>
+						<a class="brand" href="<?=base_url()?>">redstudio</a>
 						<div class="nav-collapse collapse">
 							<ul class="nav">
-								<li><a href="<?=base_url()?>quote/smiths/design">Overview</a></li>
+								<li><a href="<?=base_url()?>quote/smiths/overview">Overview</a></li>
+								<li><a href="<?=base_url()?>quote/smiths/design">Design</a></li>
 								<li><a href="<?=base_url()?>quote/smiths/maintenance">Maintenance</a></li>
 								<li><a href="<?=base_url()?>quote/smiths/costs">Cost</a></li>
 							

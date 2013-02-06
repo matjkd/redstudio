@@ -1,10 +1,7 @@
 <div class="row">
 				
 				<div class="span8">
-					<h2>Overview.</h2>
-					<p>This quote will cover the costs involved in a complete redesign of the website, ongoing maintenance and hosting of the website,
-						along with additional services such as organising email marketing campaigns and social networking campaigns. </p>
-					<hr>
+					
 					<h2 class="muted">Web Design and Development</h2>
 					<p>The new site will be built from scratch using a php framework called codeigniter. 
 						The current Smiths website is built with an off the shelf Content Management application called Joomla, using a bought template.  </p>

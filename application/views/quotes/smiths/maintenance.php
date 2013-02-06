@@ -1,3 +1,6 @@
+<div class="row">
+	<div class="span12">
+
 <h2>Maintenance Costs <span class="title-desc">(guide)</span></h2>
 <p>These costs are a guide, we can custom build a maintenance plan to suit you. The main determining factor for these costs is the amount of time spent each month. The development/SEO work would cover anything from keeping the site content up to
 	date, improving backend code to suit changes in technology (recent examples include the advent of smart phones/tablets, and very recently the 'retina' display devices). 
@@ -108,3 +111,7 @@ as well as posting on your twitter/facebook/Google+/Pinterest pages, if you have
 
    	    </div>
        	<!--/ table-wrap -->
+       	
+       	
+       	</div>
+       	</div>
