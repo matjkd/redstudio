@@ -8,7 +8,7 @@
 		</p>
 
 		<p>
-			Completion of the site is when everything set out in the initial quote is finished, and you are happy with the design.
+			
 			If you arne't happy with the final product we will address your concerns at no extra cost, providing you haven't completely altered what you want.
 
 		</p>

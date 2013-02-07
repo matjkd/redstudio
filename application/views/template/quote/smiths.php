@@ -79,6 +79,7 @@
 					<hr class="visible-phone">
 					<div class="span3">
 						<div class="subscribee">
+							<h4>Newsletter</h4>
 							Subscribe to our e-mail newsletter to receive updates.
 							<br/>
 							<br/>
@@ -95,6 +96,8 @@
 					<div class="span3">
 						<h4>Contact Us</h4>
 						<address>
+							Redstudio Design Limited
+							<br/>
 							<i class="icon-tint"></i> 65 Cricketers Lane, Herongate, Brentwood, Essex, CM133QB
 							<br>
 							<i class="icon-phone"></i> 07734 944112

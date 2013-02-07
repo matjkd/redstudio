@@ -4,7 +4,7 @@
 
 		<h2 class="muted">Web Design and Development</h2>
 		<p>
-			The new site will be built from scratch using a php framework called Codeigniter.
+			The new site will be built from scratch using a php framework called <a href="http://ellislab.com/codeigniter"   target="_blank">Codeigniter</a>.
 			The current Smiths website is built with an off the shelf Content Management application called Joomla, using a bought template.
 		</p>
 
@@ -14,8 +14,7 @@
 		</p>
 		<p>
 			Codeigniter allows for rapid development so we can add the features required in a fairly short
-			space of time. It also means your site is future proofed to some extent,  if you desire more advanced functionality in future
-			(such as a custom built booking system for example) the core is in place to make this possible without a total redesign.
+			space of time. 
 		</p>
 
 	</div>
@@ -80,7 +79,7 @@
 		<p>
 			Firstly we can pin-point the
 			missing pages and redirect them one by one to the equivalent page on the new site. Secondly, we will also build a custom "missing page" page with your branding.
-			If people try to visit something that is no longer there, they will be met with page from your new site,
+			So if people try to visit something that is no longer there, they will be met with page from your new site,
 			fully branded with links to the other parts of your site.
 		</p>
 	</div>

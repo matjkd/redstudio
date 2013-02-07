@@ -4,8 +4,8 @@
 
 <p>To design and build a site with the following features</p>
 <ul>
-	<li><i class="icon-ok"></i> Custom Content Managemen System (£1000)</li>
-	<li><i class="icon-ok"></i> Professional standards compliant responsive HTML5 design (£600)</li>
+	<li><i class="icon-ok"></i> Custom Content Managemen System (£800)</li>
+	<li><i class="icon-ok"></i> Professional standards compliant responsive HTML5 design (£800)</li>
 	<li><i class="icon-ok"></i> About Page (£100)</li>
 	<li><i class="icon-ok"></i> Contact Page (£100)</li>
 	<li><i class="icon-ok"></i> News Page (£100)</li>
