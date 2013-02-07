@@ -1,24 +1,26 @@
 .navbar .brand {
-	color:rgb(190, 190, 190);
-padding: 14px 20px 16px;
-font-size: 24px;
-font-weight:100;
-text-shadow: 0;
+	color: rgb(190, 190, 190);
+	padding: 14px 20px 16px;
+	font-size: 24px;
+	font-weight: 100;
+	text-shadow: 0;
 }
+.teaser {
 
+	background: url('../assets/slide-03.jpg');
+}
 
 /*==============================================================================*/
 
 /* Pricing Tables
 
-================================================================================*/
+ ================================================================================*/
 
 .table-wrap, .table-wrap-2 {
 	text-align: center;
 	margin-bottom: 50px;
 	overflow: hidden;
 }
-
 
 .table-column {
 	/*width: 290px;*/
@@ -91,7 +93,7 @@ text-shadow: 0;
 	font-size: 20px;
 }
 
-.selected-table .plan, .table-wrap-2 .table-column:hover .plan{
+.selected-table .plan, .table-wrap-2 .table-column:hover .plan {
 	color: #F5AF27;
 	background: #FFF;
 	-webkit-transition: all 0.2s ease-in;
@@ -132,11 +134,10 @@ text-shadow: 0;
 
 .prop {
 	right: 15px;
-	bottom: 20px; 
+	bottom: 20px;
 	font-size: 30px;
 	font-style: italic;
 }
-
 
 .selected-table .plan, .table-wrap-2 .table-column:hover .plan {
 	font-size: 40px;
@@ -147,7 +148,7 @@ text-shadow: 0;
 	transition: all 0.2s ease-in;
 }
 
-.selected-table,  .table-wrap-2  .table-column:hover {
+.selected-table, .table-wrap-2  .table-column:hover {
 	position: relative;
 	margin-top: 0;
 	-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .20);
@@ -198,42 +199,41 @@ text-shadow: 0;
 }
 
 @media (min-width: 768px) and (max-width: 1190px) {
-.price {
-	font-size: 50px;
+	.price {
+		font-size: 50px;
+	}
+	.selected-table .table-header h1, .table-wrap-2 .table-column:hover .table-header h1 {
+		font-size: 35px;
+	}
+	.table-header h1 {
+		font-size: 18px;
+	}
 }
-.selected-table .table-header h1, .table-wrap-2 .table-column:hover .table-header h1 {
-	font-size: 35px;
-}
-.table-header h1 {
-	font-size: 18px;
-}
-}
-
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 200px) and (max-width: 800px) {
-.selected-table .table-header h1, .table-wrap-2 .table-column:hover .table-header h1 {
-	font-size: 30px;
-}
-.table-column {
-	width: 100%
-}
+	.selected-table .table-header h1, .table-wrap-2 .table-column:hover .table-header h1 {
+		font-size: 30px;
+	}
+	.table-column {
+		width: 100%
+	}
 
-.table-column.data-title {
-	display: none;
-}
+	.table-column.data-title {
+		display: none;
+	}
 
-.table-options-wrap {
-	display: none
-}
+	.table-options-wrap {
+		display: none
+	}
 
-.table-column .table-options li:before {
-	content: attr(data-title) '' ;
-	text-align:center;
-	display:block;
-	margin-bottom:13px;
-	font-weight:bold;
-	color:#7e7e7e;
-}
+	.table-column .table-options li:before {
+		content: attr(data-title) '';
+		text-align: center;
+		display: block;
+		margin-bottom: 13px;
+		font-weight: bold;
+		color: #7e7e7e;
+	}
 
 }
