@@ -9,9 +9,10 @@
 		</p>
 
 		<p>
-			By building from scratch, I can ensure the site does exactly what I want, I don't need to work to the limitations of Joomla (or other CMS systems).
-			By designing the site ourselves, it will be unique looking, important for your brand.
-		</p>
+			By building from scratch, we can ensure the site performs and looks exactly how you dictate, we won't need to work to the limitations of Joomla (or other CMS systems).
+			 By designing the site ourselves, it will be unique looking - important for a strong brand
+			
+			</p>
 		<p>
 			Codeigniter allows for rapid development so we can add the features required in a fairly short
 			space of time. 
@@ -79,7 +80,7 @@
 		<p>
 			Firstly we can pinpoint the
 			missing pages and redirect them one by one to the equivalent page on the new site. Secondly, we will also build a custom "missing page" page with your branding.
-			So if people try to visit something that is no longer there, they will be met with page from your new site,
+			So if people try to visit something that is no longer there, they will be met with a current page from your new site,
 			fully branded with links to the other parts of your site.
 		</p>
 	</div>

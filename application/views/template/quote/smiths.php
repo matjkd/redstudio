@@ -17,11 +17,13 @@
 								<li>
 									<a href="<?=base_url() ?>quote/smiths/design">Design</a>
 								</li>
-								<li>
-									<a href="<?=base_url() ?>quote/smiths/maintenance">Maintenance</a>
-								</li>
+								
 								<li>
 									<a href="<?=base_url() ?>quote/smiths/costs">Cost</a>
+								</li>
+								
+								<li>
+									<a href="<?=base_url() ?>quote/smiths/maintenance">Maintenance</a>
 								</li>
 								<li>
 									<a href="<?=base_url() ?>quote/smiths/terms">Terms</a>
