@@ -5,7 +5,7 @@
 		<h2 class="muted">Web Design and Development</h2>
 		<p>
 			The new site will be built from scratch using a php framework called <a href="http://ellislab.com/codeigniter"   target="_blank">Codeigniter</a>.
-			The current Smiths website is built with an off the shelf Content Management application called Joomla, using a bought template.
+			The current Smith's website is built with an off the shelf Content Management application called Joomla, using a bought template.
 		</p>
 
 		<p>

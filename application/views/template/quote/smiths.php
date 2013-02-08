@@ -53,7 +53,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="span12">
-						<h2>Smiths Brasserie web development.</h2>
+						<h2>Smith's Brasserie web development.</h2>
 					</div>
 				</div>
 			</div>

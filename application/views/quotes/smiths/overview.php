@@ -7,7 +7,7 @@
 		</p>
 
 		<p>
-			this quotation is for presentation only, in order to progress we would need to arrange a meeting to establish your requirements
+			This quotation is for presentation only, in order to progress we would need to arrange a meeting to establish your requirements
 			 and ongoing strategy for the site
 		</p>
 		<hr>
@@ -16,10 +16,13 @@
 
 <?=$this -> load -> view('quotes/smiths/design') ?>
 <hr>
-<?=$this -> load -> view('quotes/smiths/maintenance') ?>
-<hr>
 
 <?=$this -> load -> view('quotes/smiths/costs') ?>
 <hr>
+
+<?=$this -> load -> view('quotes/smiths/maintenance') ?>
+<hr>
+
+
 
 <?=$this -> load -> view('quotes/smiths/terms') ?>
