@@ -5,7 +5,7 @@
 		<p>
 			These costs are a guide, we can custom build a maintenance plan to suit you. The main determining factor for these costs is the amount of time spent each month. The development/SEO work would cover anything from keeping the site content up to
 			date, improving backend code to suit changes in technology (recent examples include the advent of smart phones/tablets, or higher resolution 'retina' display devices).
-			SEO improvements will site based, and will involve analysing usage statistics, and possible tweaks to wording etc.
+			SEO improvements will be site based, and will involve analysing usage statistics, and possible tweaks to wording etc.
 		</p>
 		<p>
 			Development work could also include the ongoing development of new features to the site, such as a booking system, or simply just improved administration tools.
