@@ -7,7 +7,8 @@
 		</p>
 
 		<p>
-			This is just a guide, I'd recommend meeting up to discuss your exact requirements and ongoing strategy for the site.
+			this quotation is for presentation only, in order to progress we would need to arrange a meeting to establish your requirements
+			 and ongoing strategy for the site
 		</p>
 		<hr>
 	</div>
