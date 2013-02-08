@@ -71,13 +71,13 @@
 			we can make it so that is all you can do. You won't have to navigate a complex set of menus and features that you'll never use.
 		</p>
 
-		<h2 class="muted">Transistion from existing site</h2>
+		<h2 class="muted">Transition from existing site</h2>
 		<p>
 			Your current site will already have some ranking on Google, certain pages show up with certain search terms. By rebuilding the site, those pages will
 			return missing page links, and you could potentially lose ranking you've built up over time. We get round this a number of ways.
 		</p>
 		<p>
-			Firstly we can pin-point the
+			Firstly we can pinpoint the
 			missing pages and redirect them one by one to the equivalent page on the new site. Secondly, we will also build a custom "missing page" page with your branding.
 			So if people try to visit something that is no longer there, they will be met with page from your new site,
 			fully branded with links to the other parts of your site.
