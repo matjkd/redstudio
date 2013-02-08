@@ -9,7 +9,7 @@
 
 		<p>
 			
-			If you arne't happy with the final product we will address your concerns at no extra cost, providing you haven't completely altered what you want.
+			If you aren't happy with the final product we will address your concerns at no extra cost, providing you haven't completely altered what you want.
 
 		</p>
 	</div>
