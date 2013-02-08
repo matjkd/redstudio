@@ -18,5 +18,7 @@
 
 <p>We are also a Google Apps reseller, so if you haven't already got a professional email service in place we can set this up and provide one to one training in the services it
 	can provide. Google Apps costs £3.30 per user per month.</p>
+	
+	<p>Client site visits will be charged at £30 per hour </p>
 </div>
 </div>
