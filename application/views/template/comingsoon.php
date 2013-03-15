@@ -40,7 +40,7 @@
 				
 				<div class="span8">
 					<h2>Our website is undergoing a slight update.</h2>
-					<p>We are currently updating our website, the new one should be finished soon. In the meantime, if you want some sort of web based thing done, get in contact. </p>
+					<p>We are currently updating our website (when we get time), the new one should be finished soon. In the meantime, if you want some sort of web based thing done, get in contact. </p>
 					
 					
 
