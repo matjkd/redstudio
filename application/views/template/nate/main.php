@@ -7,12 +7,13 @@
 	<title>Redstudio Design Limited </title> 
 	<meta content="Web design and development company based in Essex" name="description">
 	<!-- end: Meta -->
-	
+	<link href="https://plus.google.com/100045574150127148775" rel="publisher" />
 	<!-- start: Mobile Specific -->
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 	<!-- end: Mobile Specific -->
 
     <!-- start: CSS -->
+    
     <link rel="stylesheet" href="<?=$theme_location?>css/bootstrap.css">
     <link rel="stylesheet" href="<?=$theme_location?>css/bootstrap-responsive.css">
     <link rel="stylesheet" href="<?=$theme_location?>css/style.css">
@@ -191,7 +192,7 @@
 			<div class="row">
 					<div class="span6">
 						<div class="copyright">Copyright &copy; 2013 Redstudio Design Limited. All rights reserved. Redstudio Design Limited is registered in England & Wales. Company number: 6055186 
-<a href="https://plus.google.com/100045574150127148775" rel="publisher">Google+</a>
+
 </div>
 					</div>
 					<div class="span6">
