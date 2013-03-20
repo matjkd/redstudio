@@ -151,11 +151,23 @@
       
       });
 
+/* -------------------- Tooltip ----------------- */
+$(document).ready(function () {
+ $(function () {
+        $('body').popover({
+            selector: '[data-toggle="popover"]',
+            trigger: 'hover'
+        });
 
+        $('body').tooltip({
+            selector: 'a[rel="tooltip"], [data-toggle="tooltip"]'
+        });
+    });
+ });
 
 /* -------------------- Plax --------------------- */
 
       $(document).ready(function () {
         $('#shell img').plaxify()
         $.plax.enable()
-      })
+      });

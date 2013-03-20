@@ -127,14 +127,17 @@
 						</div>
 						<p>
 							We can customise any project to suit your needs and budget. It is worth talking to us before you make any decision.
-							 <a href="work-with-us.html"><i class="icon-share"></i></a></p>
+							 <a href="<?=base_url()?>welcome/contentpage/about-us""><i class="icon-share"></i></a></p>
 
 						<p class="footer-subscribe"><strong>Subscribe for monthly updates:</strong></p>
 
-						<form id="newsletter">
-				              <input type="text" placeholder="Enter email adress" class="span9 subs">
-				              <button type="button" class="btn btn-send">Send</button>
-						</form>
+					
+						
+						<form id="newsletter" action="http://redstudio.us1.list-manage.com/subscribe/post?u=07f8348178863dab1d4d377a3&amp;id=ccd4d4f407" 
+                                   method="post" id="mc-embedded-subscribe-form " name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                        <input type="text" value="" name="EMAIL"  class="span9 subs" id="mce-EMAIL" placeholder="Enter email address" required>
+                                       <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-send">Send</button>
+                                    </form>
 					</div>
 					
 					
@@ -187,25 +190,20 @@
 		<div class="container">
 			<div class="row">
 					<div class="span6">
-						<div class="copyright">Copyright &copy; 2013 Redstudio Design Limited. All rights reserved.</div>
+						<div class="copyright">Copyright &copy; 2013 Redstudio Design Limited. All rights reserved. Redstudio Design Limited is registered in England & Wales. Company number: 6055186 
+</div>
 					</div>
 					<div class="span6">
 						<ul class="footer-links">
-							<li>
-								<a href="about.html">About</a>
-							</li>
-							<li>
-								<a href="features.html">Features</a>
-							</li>
-							<li>
-								<a href="blog-post.html">Blog</a>
-							</li>
-							<li>
-								<a href="sign-in.html">Sign in</a>
-							</li>
-							<li>
-								<a href="contact.html">Contact</a>
-							</li>
+							<li class="active">
+							<a href="<?=base_url()?>">Home</a>
+						</li>
+						
+						<li class=""><a href="<?=base_url()?>welcome/contentpage/about-us">About Us</a></li>
+						
+						
+						<li class=""><a href="<?=base_url()?>welcome/contentpage/contact">Contact</a></li>
+						
 						</ul>
 					</div>
 			</div>

@@ -15,7 +15,7 @@
 				<i class="icon-check icon-4x pull-left icon-muted"></i><p>Established in 2002. Redstudio is a web design and development company based in Essex in the UK. We specialise in
 					custom web projects, from basic brochure sites to complex bespoke web applications.</p>
 				<p>
-					Our services encompass design, development, ecommerce sites, Search Engine Optimisation and Search Engine Marketing.
+					Our services encompass design, development, ecommerce sites, Search Engine Optimisation, Search Engine Marketing and Social Media Management.
 </p>
 			</div>
 

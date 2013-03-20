@@ -8,7 +8,7 @@
 					<div class="left">
 						<div class="lines">
 							<div>
-							<h2 class="lines-title">Latest Works</h2>
+							<h2 class="lines-title">Latest Work</h2>
 							</div>
 						</div>
 					</div>
@@ -60,15 +60,15 @@
 						  <div class="flipper">
 						    <div class="back">
 						      <div class="flip-b">
-						      	<a target="_blank" href="http://www.access360.co.uk/"><span class="icon-back"><i class="icon-plus-sign"></i></span></a>
+						      	<a target="_blank" href="http://www.redtest.info/access360"><span class="icon-back"><i class="icon-plus-sign"></i></span></a>
 						      </div>
 						    </div>
 						  </div>
 						</div>							
 						<span class="hover-fade"><i class="icon-plus-sign icon-3x"></i></span>
 					</div>
-					<a target="_blank" href="http://www.access360.co.uk/"><h5>Access 360 Website <span class="white-title"><i class="icon-plus"></i></span></h5></a>
-					<p>This site makes use of Jquery for the unique front page</p>						
+					<a target="_blank" href="http://www.redtest.info/access360"><h5>Access 360 Website <span class="white-title"><i class="icon-plus"></i></span></h5></a>
+					<p>This site makes use of jQuery for the unique front page</p>						
 				</div>
 			</div>
 			<div class="span3">
@@ -87,7 +87,7 @@
 						<span class="hover-fade"><i class="icon-plus-sign icon-3x"></i></span>
 					</div>
 					<a target="_blank" href="http://www.sunncamp.co.uk/"><h5>SunnCamp <span class="white-title"><i class="icon-plus"></i></span></h5></a>
-					<p>Custom built website with product management</p>						
+					<p>Custom built website with bespoke product management section</p>						
 				</div>
 			</div>						
 		</div>

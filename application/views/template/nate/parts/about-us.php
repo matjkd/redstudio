@@ -28,16 +28,24 @@
 			<div class="span6">
 				<i class="icon-ok icon-4x pull-left icon-muted"></i>
 				<p>
-					Redstudio Design Limited is based in Brentwood, Essex. We are a web development company. 
+					We are a web design agency who specialise in bespoke web design projects for 
+					 businesses of all sizes. Based in Essex we can help you with every aspect of your
+					 companies on-line strategy. 
 				</p>
 				
 				<p>
-					We've been going since 2002, and we're awesome at it. We design, build, host, maintain and market websites.</p>
-					<p>
-					With skills in PHP, MySQL, Javascript, JQuery, HTML5, CSS3, SEO,  PPC Advertising, server management and
-					 email marketing among other things, we can handle just about every element of your project. If there's anything we can't do, we'll find someone that can.
+					 We design, build and maintain anything from basic low cost brochure sites, to complex high end
+					 web applications. Our services encompass design, development, ecommerce sites, Search Engine Optimisation and Search Engine Marketing.
 				</p>
-				
+				<p>
+					All new sites we build are
+					 <a data-toggle="popover" data-placement="top" data-content="The site adjusts layout depending on the size of the screen, so the same site works on a desktop, and a smartphone" data-original-title="Responsive Design">responsive</a> and
+					 search engine friendly to ensure they have the best possible 
+					chance of being found.
+				</p>
+				<p>
+					
+				</p>
 
 			</div>
 
