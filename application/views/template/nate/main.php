@@ -56,7 +56,7 @@
 				<a data-toggle="collapse" data-target=".nav-collapse" class="btn btn-navbar">
 					<span><i class="icon-reorder"></i></span>
 				</a>
-				<a class="btn btn-navbar" href="sign-in.html"><i class="icon-signin"></i></a>
+				
 				<a class="btn btn-navbar" href="tel:07734944112"><i class="icon-phone"></i></a>
 				<a class="btn btn-navbar" href="http://goo.gl/maps/fVkWN"><i class="icon-map-marker"></i></a>
 
