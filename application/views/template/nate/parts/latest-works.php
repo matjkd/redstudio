@@ -17,7 +17,7 @@
 			<div class="span3">
 				<div class="white-content">
 					<div class="img-mask hover-mask">
-						<img src="<?=base_url()?>images/examples/nash.png" alt="Photo-Work-1">
+						<img src="<?=base_url()?>images/examples/nash.jpg" alt="Photo-Work-1">
 						<div class="flip-container">
 						  <div class="flipper">
 						    <div class="back">
@@ -36,7 +36,7 @@
 			<div class="span3">
 				<div class="white-content">
 					<div class="img-mask hover-mask">
-						<img src="<?=base_url()?>images/examples/convey.png" alt="Photo-Work-2">
+						<img src="<?=base_url()?>images/examples/convey.jpg" alt="Photo-Work-2">
 						<div class="flip-container">
 						  <div class="flipper">
 						    <div class="back">
@@ -55,7 +55,7 @@
 			<div class="span3">
 				<div class="white-content">
 					<div class="img-mask hover-mask">
-						<img src="<?=base_url()?>images/examples/access360.png" alt="Photo-Work-3">
+						<img src="<?=base_url()?>images/examples/access360.jpg" alt="Photo-Work-3">
 						<div class="flip-container">
 						  <div class="flipper">
 						    <div class="back">
@@ -74,7 +74,7 @@
 			<div class="span3">
 				<div class="white-content">
 					<div class="img-mask hover-mask">
-						<img src="<?=base_url()?>images/examples/sunncamp.png" alt="Photo-Work-4">
+						<img src="<?=base_url()?>images/examples/sunncamp.jpg" alt="Photo-Work-4">
 						<div class="flip-container">
 						  <div class="flipper">
 						    <div class="back">
