@@ -69,7 +69,7 @@
 			    <div id="collapseThree" class="accordion-body collapse">
 			      <div class="accordion-inner">
 			        With Search Engine Optimisation we concentrate on getting customers to your website. This can be through many means, and is not limited to
-			        getting on page 1 of Google for some obsure phrase, or having lots of visitors. You need the right people coming to your site 
+			        getting on page 1 of Google for some obscure phrase, or having lots of visitors. You need the right people coming to your site 
 			        for the right reasons, and staying there. We do this from the way we design the site, to the way we manage the various PPC campaigns and organic marketing.
 			        We keep on top of the technology behind search engines too, ensuring everything we do is white hat.
 			      </div>
