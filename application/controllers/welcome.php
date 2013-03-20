@@ -41,13 +41,7 @@
 			
 		}
 
-		function test()
-		{
-			$data['main_content'] = 'slideshow/slideshow';
-			$this -> load -> vars($data);
-			$this -> load -> view('template/main');
-		}
-
+		
 		
 
 		
