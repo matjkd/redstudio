@@ -43,12 +43,12 @@
 					  <div class="flipper">
 					    <div class="front ">
 					      <div class="flip-a">
-					      	<a target="_blank"  href="https://plus.google.com/u/0/100045574150127148775/posts"><i class="icon-google-plus icon-2x"></i></a>
+					      	<a target="_blank"  href="https://plus.google.com/100045574150127148775" rel="publisher"><i class="icon-google-plus icon-2x"></i></a>
 					      </div>
 					    </div>
 					    <div class="back">
 					      <div class="flip-b google">
-					      	<a target="_blank"  href="https://plus.google.com/u/0/100045574150127148775/posts"><span class="icon-back"><i class="icon-google-plus icon-2x"></i></span></a>
+					      	<a target="_blank"  href="https://plus.google.com/100045574150127148775" rel="publisher"><span class="icon-back"><i class="icon-google-plus icon-2x"></i></span></a>
 					      </div>
 					    </div>
 					  </div>
