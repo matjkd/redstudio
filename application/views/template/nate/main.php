@@ -191,6 +191,7 @@
 			<div class="row">
 					<div class="span6">
 						<div class="copyright">Copyright &copy; 2013 Redstudio Design Limited. All rights reserved. Redstudio Design Limited is registered in England & Wales. Company number: 6055186 
+<a href="https://plus.google.com/100045574150127148775" rel="publisher">Google+</a>
 </div>
 					</div>
 					<div class="span6">
