@@ -19,9 +19,9 @@
     <link rel="stylesheet" href="<?=$theme_location?>css/style.css">
     <!-- end: CSS -->
 
-	<!-- start: favicon -->
+	<!-- start: favicon 
 	<link href="//s3.amazonaws.com/wrapbootstrap/live/imgs/favicon.ico" rel="shortcut icon">
-	<!-- end: favicon -->
+	 end: favicon -->
 
 
 
