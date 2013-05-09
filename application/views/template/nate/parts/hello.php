@@ -84,7 +84,7 @@
 			    </div>
 			    <div id="collapseFour" class="accordion-body collapse">
 			      <div class="accordion-inner">
-			      	We are not a hosting company, but hosting is part of our service. We run our own servers on Amazon EC2, which provides us with an excellent scalable 
+			      	We are not a hosting company, but hosting is part of our overall service. We run our own servers on Amazon EC2, which provides us with an excellent scalable 
 			      	infrastructure, ideal for any size website. 
 			         </div>
 			    </div>

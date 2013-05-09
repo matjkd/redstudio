@@ -1,0 +1,364 @@
+/* CSS Document */
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background: url(../img/textures/diagonal-noise_@2X.png);
+	background-size: 100px 100px;
+	padding-top: 10px;
+}
+h1, h2, h3, h4 {
+	font-family: 'Crete Round', serif;
+}
+h3 {
+	line-height: 24px;
+}
+a {
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+}
+a:hover {
+	text-decoration: none;
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+}
+
+/*************************************************************
+ Bootstrap Modifications
+ **************************************************************/
+.well {
+	min-height: 30px;
+}
+
+/*************************************************************
+ Header
+ **************************************************************/
+.logo {
+	font-family: 'Crete Round', serif;
+	font-size: 46px;
+	border-bottom: 3px solid #F90;
+	margin-bottom: 20px;
+}
+.header {
+	height: 60px;
+	text-align: center;
+	margin-top: 5px;
+}
+/*************************************************************
+ Menu
+ **************************************************************/
+.sticky {
+	position: fixed;
+	width: 100%;
+	top: 0px;
+	left: 0;
+	z-index: 10000;
+}
+.mobile-nav-container {
+	display: block;
+	text-align: left;
+	background: #333;
+	color: #eee;
+}
+.nav-container {
+	display: block;
+	text-align: center;
+	background: #333;
+	color: #eee;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+.nav-container ul {
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.nav-container > ul > li {
+	transition: height 0.5s ease;
+	-webkit-transition: height 0.5s ease;
+	-moz-transition: height 0.5s ease;
+	-o-transition: height 0.5s ease;
+	position: relative;
+	display: inline;
+	padding: 0 15px;
+}
+.nav-container > ul > li > a {
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+	font-weight: 100;
+	color: #eee;
+}
+.nav-container > ul > li > a:hover {
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+	text-decoration: none;
+	color: #F90;
+}
+.nav-container ul > li > ul {
+	display: none;
+	left: 0;
+	top: 17px;
+	margin-left: 10px;
+	margin-top: 0px;
+	min-width: 100px;
+	padding: 12px 0px 3px 0px;
+	position: absolute;
+	background: #333;
+	z-index: 99999;
+}
+.nav-container > ul > li > ul > li {
+	display: block;
+	border-top: solid 1px #777;
+	position: relative;
+	list-style-type: none;
+	padding: 4px;
+}
+.nav-container > ul > li > ul > li > a {
+	font-weight: 100;
+	color: #eee;
+}
+.nav-container > ul > li > ul > li > a:hover {
+	text-decoration: none;
+	color: #f90;
+}
+.mobile-nav-container > button {
+	margin: 3px;
+	background: #444;
+	color: #eee;
+}
+.mobile-nav-container > button:hover {
+	background: #333;
+	color: #F90;
+}
+/* Responsive Menu */
+@media only screen and (max-width: 979px) {
+	.nav-container {
+		text-align: left;
+	}
+	.nav-container > ul > li {
+		width: 100%;
+		display: block;
+		padding: 5px 15px;
+	}
+	.nav-container > ul > li:hover {
+		background: #666;
+	}
+	.nav-container > ul > li > ul {
+		top: 0px;
+		position: relative;
+		background: transparent;
+	}
+}
+/*************************************************************
+ Main Body
+ **************************************************************/
+.boxbody {
+	padding: 20px;
+	border-top: 5px solid #333;
+	background-color: #fff;
+}
+.toTop {
+	display: none;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	background: #F90;
+	color: #fff;
+	width: 40px;
+	height: 36px;
+	padding-top: 4px;
+	text-align: center;
+}
+.toTop a {
+	text-decoration: none;
+	color: #fff;
+}
+.toTop a:hover {
+	text-decoration: none;
+	color: #fff;
+}
+/*************************************************************
+ Footer
+ **************************************************************/
+.boxfooter {
+	text-align: center;
+	color: #CCC;
+	padding: 20px;
+	background: url(../img/textures/grey_wash_wall_@2X.png) #ddd;
+	border-top: 5px solid #F90;
+	background-size: 100px 100px;
+}
+.boxfooter i {
+	font-size: 28px;
+	line-height: 30px;
+	padding: 0 5px;
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+}
+.boxfooter ul {
+	margin-left: 0px;
+}
+.boxfooter ul li {
+	height: 50px;
+	margin-left: 0px;
+	display: inline;
+}
+.boxfooter a {
+	padding-top: 7px;
+	color: #eee;
+}
+.boxfooter a:hover {
+	color: #f90;
+	text-decoration: none;
+}
+/*************************************************************
+ Portfolio
+ **************************************************************/
+.photo {
+	margin-bottom:10px;
+}
+.imageContainer {
+	display: block;
+	position: relative;
+}
+.hoverBox {
+	opacity: 0;
+	top: 0;
+	display: block;
+	position: absolute;
+	background: #6CF;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+	color: #FFF
+}
+.hoverBox > .iconContainer {
+}
+.hoverBox i {
+	padding-top: 25%;
+	position: relative;
+}
+.hoverBox:hover {
+	opacity: 1;
+	background: rgba(0,153,255,0.3);
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+}
+.imagedescription {
+	padding: 2px 10px;
+}
+.imagedescription h4 {
+	border-bottom: 1px solid #CCC;
+}
+.imagedescription > .author {
+	border-bottom: 1px solid #eee;
+	margin-bottom: 5px;
+	color: #aaa;
+}
+.iconContainer a {
+	color: #fff;
+}
+.iconContainer a:hover {
+	color: #f90;
+}
+/*************************************************************
+ Feature box
+ **************************************************************/
+.featureBox {
+	text-align: center;
+	background: url(../img/textures/diagonal-noise_@2X.png) rgb(250, 250, 250);
+	background-size: 100px 100px;
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+}
+.featureBox:hover {
+	text-shadow: 4px 3px 4px #bbb;
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+	color: #fff;
+}
+.featureBox i {
+	font-size: 99px;
+}
+.profileBox {
+	padding: 30px;
+	text-align: center;
+}
+/*************************************************************
+ Contact Page
+ **************************************************************/
+.mapbox {
+	margin-bottom: 20px;
+	border-bottom: 4px solid #f90;
+}
+/*************************************************************
+ Blog Page
+ **************************************************************/
+.blog-image {
+	margin-bottom: 20px;
+}
+.blog-tags ul {
+	margin-left: 0px;
+}
+.blog-tags li {
+	display: inline-block;
+	margin-bottom: 5px;
+}
+.blog-categories ul {
+	list-style-type: none;
+	margin-left: 0px;
+}
+.blog-entry {
+	padding-top: 20px;
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+}
+.blog-entry:hover {
+	transition: All 0.5s ease;
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+	background: #eee;
+}
+/*************************************************************
+ Font Awesome
+ **************************************************************/
+.the-icons li {
+	cursor: pointer;
+	line-height: 32px;
+	height: 32px;
+	padding-left: 12px;
+	width: 100%;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+/*************************************************************
+ Effects
+ **************************************************************/
+.shadow {
+	-moz-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+}

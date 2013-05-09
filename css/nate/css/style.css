@@ -926,7 +926,7 @@ blockquote small:before {
 }
 .page-title h2{
     display: inline-block;
-    border-bottom: 1px solid #FFF;
+    border-bottom:0px solid #FFF;
 }
 .page-title .section-wrapper{
     padding-top: 50px;
@@ -2227,4 +2227,230 @@ body {padding-top: 0px;}
     .thumbnail-box{margin-left: 65px}
     .section-portfolio .container{margin-left: 10px;}
 }
+/*==============================================================================*/
 
+/* Pricing Tables
+
+ ================================================================================*/
+
+.table-wrap, .table-wrap-2 {
+	text-align: center;
+	margin-bottom: 50px;
+	overflow: hidden;
+}
+
+.table-column {
+	/*width: 290px;*/
+	width: 24.5%;
+	margin-top: 30px;
+	float: left;
+	border: 1px solid #fff;
+	position: relative;
+	z-index: 3;
+}
+
+.table-header {
+	min-height: 200px;
+}
+
+.table-footer a {
+	display: block;
+	width: 100%;
+	background: #333;
+	color: #fff;
+	padding: 20px 0;
+	font-size: 20px;
+}
+
+.selected-table .table-footer a, .table-wrap-2 .table-column:hover .table-footer a {
+	display: block;
+	padding: 30px 0;
+	background: rgb(233, 89, 69);
+	font-size: 30px;
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+.selected-table .table-footer a:hover, .table-wrap-2 .table-column:hover .table-footer a:hover {
+	background: #333333;
+	color: #fff;
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+.table-header h1 {
+	margin: 0;
+	width: 100%;
+	background: #333;
+	color: #fff;
+	padding: 20px 0;
+}
+
+.plan {
+	position: relative;
+	min-height: 120px;
+	background: #F9F8F8;
+	text-shadow: 1px 1px #fff;
+}
+
+.price {
+	font-size: 60px;
+	font-weight: bold;
+	display: block;
+	padding-top: 40px;
+}
+
+.per {
+	font-size: 20px;
+}
+
+.selected-table .plan, .table-wrap-2 .table-column:hover .plan {
+	color: rgb(233, 89, 69);
+	background: #FFF;
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+.selected-table i, .table-wrap-2 .table-column:hover i {
+	color: rgb(233, 89, 69);
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+.currency {
+	left: 20px;
+	font-size: 30px;
+	top: 20px;
+}
+
+.perc {
+	font-weight: bold;
+	font-size: 30px;
+	right: 70px;
+	top: 20px;
+}
+
+.slash {
+	font-size: 80px;
+	right: 55px;
+	top: 50px;
+	font-weight: normal !important
+}
+
+.prop {
+	right: 15px;
+	bottom: 20px;
+	font-size: 30px;
+	font-style: italic;
+}
+
+.selected-table .plan, .table-wrap-2 .table-column:hover .plan {
+	font-size: 40px;
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+.selected-table, .table-wrap-2  .table-column:hover {
+	position: relative;
+	margin-top: 0;
+	-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .20);
+	-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .20);
+	box-shadow: 0 0 20px rgba(0, 0, 0, .20);
+	z-index: 5;
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+.selected-table .table-header, .table-wrap-2 .table-column:hover .table-header {
+	min-height: 230px;
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+.selected-table .table-header h1, .table-wrap-2 .table-column:hover .table-header h1 {
+	background: rgb(233, 89, 69);
+	color: #fff;
+	text-shadow: none;
+	padding: 35px 0;
+	font-size: 35px;
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+.even {
+	padding: 15px;
+	background: #eee;
+}
+
+.odd {
+	padding: 15px;
+}
+
+.table-column ul {
+	margin: 0;
+	text-align: left;
+}
+
+@media (min-width: 768px) and (max-width: 1190px) {
+	.price {
+		font-size: 50px;
+	}
+	.selected-table .table-header h1, .table-wrap-2 .table-column:hover .table-header h1 {
+		font-size: 35px;
+	}
+	.table-header h1 {
+		font-size: 18px;
+	}
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 200px) and (max-width: 800px) {
+	.selected-table .table-header h1, .table-wrap-2 .table-column:hover .table-header h1 {
+		font-size: 30px;
+	}
+	.table-column {
+		width: 100%
+	}
+
+	.table-column.data-title {
+		display: none;
+	}
+
+	.table-options-wrap {
+		display: none
+	}
+
+	.table-column .table-options li:before {
+		content: attr(data-title) '';
+		text-align: center;
+		display: block;
+		margin-bottom: 13px;
+		font-weight: bold;
+		color: #7e7e7e;
+	}
+
+}

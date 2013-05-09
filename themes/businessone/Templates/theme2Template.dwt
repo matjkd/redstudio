@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Business One</title>
+<!-- TemplateEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<!-- Le styles -->
+<link href="../assets/css/bootstrap.css" rel="stylesheet">
+<link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="../assets/css/docs.css" rel="stylesheet">
+<link href="../assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+<link href="../assets/css/font-awesome.css" rel="stylesheet">
+<link href="../assets/css/animate.css" rel="stylesheet">
+<link href="../assets/css/isotope.css" rel="stylesheet">
+<link href="../assets/css/sequence.css" rel="stylesheet">
+<link href="../assets/css/prettyphoto.css" rel="stylesheet">
+<link href="../assets/css/styles.css" rel="stylesheet">
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+    <![endif]-->
+
+<!-- Le fav and touch icons -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="../assets/ico/favicon.png">
+
+<!-- Google Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Crete+Round:400,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,900,200italic' rel='stylesheet' type='text/css'>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body data-spy="scroll" data-target=".bs-docs-sidebar">
+<!-- TemplateBeginEditable name="alert" -->alert<!-- TemplateEndEditable --> 
+<!--Alert Code--> 
+
+<!-- end of alert -->
+
+<div class="boxbody shadow container"> 
+  
+  <!--Header begins-->
+  <div class="header">
+    <div class="row-fluid">
+      <div class="span12"> <span class="logo animated fadeInDown">Business One</span></div>
+    </div>
+  </div>
+  <!--Header ends--> 
+  
+  <!--Top Menu begins-->
+  <div class="row-fluid">
+    <div class="span12">
+      <div class="navigation">
+        <div class="mobile-nav-container hidden-desktop shadow">
+          <button id="mobileMenu" type="button" class="btn btn-navbar " data-toggle="collapse" data-target=".nav-collapse"> <i class="icon-list-ul"></i></button>
+        </div>
+        <div class="nav-collapse">
+          <div class="nav-container   shadow">
+            <ul>
+              <li ><a href="../index.html"><i class="icon-home"></i> home</a> </li>
+              <li><a href="../about.html"><i class="icon-cog"></i> about</a></li>
+              <li><a href=""><i class="icon-picture"></i> portfolio</a>
+                <ul>
+                  <li><a href="../portfolio4.html">4 Col Portfolio</a></li>
+                  <li><a href="../single-portfolio.html">Single Portfolio</a></li>
+                  
+                </ul>
+              </li>
+              <li><a href=""><i class="icon-pencil"></i> blog</a>
+                <ul>
+                  <li><a href="../blog-list.html">blog list</a></li>
+                  <li><a href="../single-blog.html">Single Blog</a></li>
+                </ul>
+              </li>
+              <li><a href=""><i class="icon-ok-sign"></i> features</a>
+                <ul>
+                  <li><a href="../font-awesome.html">Font Awesome</a></li>
+                </ul>
+              </li>
+              <li><a href="../contact.html"><i class="icon-phone"></i> contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--Top Menu ends--> 
+  <!-- TemplateBeginEditable name="main body" --> main body<!-- TemplateEndEditable --> </div>
+
+<!-- Footer
+    ================================================== -->
+
+<footer class="container boxfooter shadow">
+  <div class="row-fluid">
+    <div class="span12">
+      <ul>
+        <li><a href="" data-toggle="tooltip" title="Facebook"><i class="icon-facebook-sign"></i></a> </li>
+        <li><a href="" data-toggle="tooltip" title="Twitter"><i class="icon-twitter-sign"></i> </a></li>
+        <li> <a href="" data-toggle="tooltip" title="linkedIn"><i class="icon-linkedin-sign"></i> </a></li>
+        <li> <a href="" data-toggle="tooltip" title="Google Plus"><i class="icon-google-plus-sign"></i></a></li>
+      </ul>
+      <p>&copy; 2013 Business One</p>
+    </div>
+  </div>
+</footer>
+<div class="toTop"><a href="#top"><i class="icon-2x icon-circle-arrow-up"></i></a></div>
+
+<!-- Le javascript
+    ================================================== --> 
+<!-- Bootstrap js Placed at the end of the document so the pages load faster --> 
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script> 
+<script src="../assets/js/jquery.js"></script> 
+<script src="../assets/js/bootstrap-transition.js"></script> 
+<script src="../assets/js/bootstrap-alert.js"></script> 
+<script src="../assets/js/bootstrap-modal.js"></script> 
+<script src="../assets/js/bootstrap-dropdown.js"></script> 
+<script src="../assets/js/bootstrap-scrollspy.js"></script> 
+<script src="../assets/js/bootstrap-tab.js"></script> 
+<script src="../assets/js/bootstrap-tooltip.js"></script> 
+<script src="../assets/js/bootstrap-popover.js"></script> 
+<script src="../assets/js/bootstrap-button.js"></script> 
+<script src="../assets/js/bootstrap-collapse.js"></script> 
+<script src="../assets/js/bootstrap-carousel.js"></script> 
+<script src="../assets/js/bootstrap-typeahead.js"></script> 
+<script src="../assets/js/bootstrap-affix.js"></script> 
+<script src="../assets/js/holder/holder.js"></script> 
+<script src="../assets/js/google-code-prettify/prettify.js"></script> 
+<script src="../assets/js/application.js"></script> 
+
+<!-- Custom JS --> 
+<script src="../assets/js/isotope.js"></script> 
+<script src="../assets/js/prettyphoto.js"></script> 
+<script src="../assets/js/custom-isotope.js"></script> 
+<script src="../assets/js/sequence.js"></script> 
+<script src="../assets/js/superfish.js"></script> 
+<script src="../assets/js/custom.js"></script>
+</body>
+</html>
