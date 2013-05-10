@@ -67,8 +67,8 @@
 						</div>							
 						<span class="hover-fade"><i class="icon-plus-sign icon-3x"></i></span>
 					</div>
-					<a target="_blank" href="http://www.redtest.info/access360"><h5>Access 360 Website <span class="white-title"><i class="icon-plus"></i></span></h5></a>
-					<p>This site makes use of jQuery for the unique front page (this is still under construction but I've put it here anyway)</p>						
+					<a target="_blank" href="http://www.access360.co.uk"><h5>Access 360 Website <span class="white-title"><i class="icon-plus"></i></span></h5></a>
+					<p>This site makes use of jQuery for the unique front page</p>						
 				</div>
 			</div>
 			<div class="span3">
