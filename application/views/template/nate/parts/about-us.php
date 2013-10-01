@@ -41,7 +41,7 @@
 					All new sites we build are
 					 <a data-toggle="popover" data-placement="top" data-content="The site adjusts layout depending on the size of the screen, so the same site works on a desktop, and a smartphone" data-original-title="Responsive Design">responsive</a> and
 					 search engine friendly to ensure they have the best possible 
-					chance of being found.
+					chance of being found. We make use of responsive frameworks such as <a target="_blank" href="http://bootstrapsauce.com">Twitter Bootstrap</a> or <a target="_blank" href="http://foundationsauce.com">Zurb Foundation</a> for faster high quality development.
 				</p>
 				<p>
 					
